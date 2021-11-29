@@ -1,0 +1,5 @@
+AWS IAM User Creds
+
+Username - vijay
+Access ID - AKIAUR3CDDFQ4VZZ7H3E
+Secret Access Key - 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
